@@ -1,0 +1,9 @@
+{
+  "name": "stripe-bower",
+  "version": "1.0.0",
+  "description": "install stripe with bower",
+  "main": [
+    "stripe.js"
+  ],
+  "private": false
+}
